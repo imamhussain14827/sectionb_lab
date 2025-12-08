@@ -1,1 +1,3 @@
 now i am create one text file in feature branch
+now i want to some change
+some changes
